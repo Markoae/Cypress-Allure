@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Sep 11 02:34:03 BRT 2020","Fri Sep 11 02:34:07 BRT 2020","4044","","Roteiro Google","","","","Pesquisa por botão “Pesquisa Google”",""
+"passed","Fri Sep 11 02:34:16 BRT 2020","Fri Sep 11 02:34:19 BRT 2020","2946","","Roteiro Google","","","","Avançar página de resultados",""
+"passed","Fri Sep 11 02:34:11 BRT 2020","Fri Sep 11 02:34:16 BRT 2020","4877","","Roteiro Google","","","","Acessar um link da busca",""
+"passed","Fri Sep 11 02:34:07 BRT 2020","Fri Sep 11 02:34:11 BRT 2020","3280","","Roteiro Google","","","","Pesquisa por botão “Estou com sorte”",""

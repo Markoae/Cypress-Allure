@@ -1,0 +1,375 @@
+{
+  "uid" : "ce04860bf8011a8f",
+  "name" : "Avançar página de resultados",
+  "fullName" : "Avançar página de resultados",
+  "historyId" : "d8d5c892a5970a25d3bd13c6cd8c3dd8",
+  "time" : {
+    "start" : 1599802456229,
+    "stop" : 1599802459175,
+    "duration" : 2946
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "visit (\"/\")",
+      "time" : {
+        "start" : 1599802456385,
+        "stop" : 1599802456736,
+        "duration" : 351
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "get (\"[title=\"Pesquisar\"]\")",
+      "time" : {
+        "start" : 1599802456736,
+        "stop" : 1599802456744,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "type (\"JavaScript\")",
+      "time" : {
+        "start" : 1599802456744,
+        "stop" : 1599802457178,
+        "duration" : 434
+      },
+      "status" : "failed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://www.google.com/complete/search?q&cp=0&client=psy-ab&xssi=t&gs_ri=gws-wiz&hl=pt-BR&authuser=0&psi=WwxbX9TVLq-f5OUP0ICs0A4.1599802456892&ei=WwxbX9TVLq-f5OUP0ICs0A4&nolsbt=1",
+      "time" : {
+        "start" : 1599802457175,
+        "stop" : 1599802457175,
+        "duration" : 0
+      },
+      "status" : "failed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://www.google.com/complete/search?q=Jav&cp=3&client=psy-ab&xssi=t&gs_ri=gws-wiz&hl=pt-BR&authuser=0&psi=WwxbX9TVLq-f5OUP0ICs0A4.1599802456892&ei=WwxbX9TVLq-f5OUP0ICs0A4",
+      "time" : {
+        "start" : 1599802457175,
+        "stop" : 1599802457175,
+        "duration" : 0
+      },
+      "status" : "failed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://www.google.com/complete/search?q=Jav&cp=3&client=psy-ab&xssi=t&gs_ri=gws-wiz&hl=pt-BR&authuser=0&psi=WwxbX9TVLq-f5OUP0ICs0A4.1599802456892&ei=WwxbX9TVLq-f5OUP0ICs0A4",
+      "time" : {
+        "start" : 1599802457175,
+        "stop" : 1599802457175,
+        "duration" : 0
+      },
+      "status" : "failed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://www.google.com/complete/search?q=Java&cp=4&client=psy-ab&xssi=t&gs_ri=gws-wiz&hl=pt-BR&authuser=0&psi=WwxbX9TVLq-f5OUP0ICs0A4.1599802456892&ei=WwxbX9TVLq-f5OUP0ICs0A4",
+      "time" : {
+        "start" : 1599802457176,
+        "stop" : 1599802457176,
+        "duration" : 0
+      },
+      "status" : "failed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://www.google.com/complete/search?q=JavaS&cp=5&client=psy-ab&xssi=t&gs_ri=gws-wiz&hl=pt-BR&authuser=0&psi=WwxbX9TVLq-f5OUP0ICs0A4.1599802456892&ei=WwxbX9TVLq-f5OUP0ICs0A4",
+      "time" : {
+        "start" : 1599802457176,
+        "stop" : 1599802457176,
+        "duration" : 0
+      },
+      "status" : "failed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://www.google.com/complete/search?q=JavaSc&cp=6&client=psy-ab&xssi=t&gs_ri=gws-wiz&hl=pt-BR&authuser=0&psi=WwxbX9TVLq-f5OUP0ICs0A4.1599802456892&ei=WwxbX9TVLq-f5OUP0ICs0A4",
+      "time" : {
+        "start" : 1599802457176,
+        "stop" : 1599802457176,
+        "duration" : 0
+      },
+      "status" : "failed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://www.google.com/complete/search?q=JavaScr&cp=7&client=psy-ab&xssi=t&gs_ri=gws-wiz&hl=pt-BR&authuser=0&psi=WwxbX9TVLq-f5OUP0ICs0A4.1599802456892&ei=WwxbX9TVLq-f5OUP0ICs0A4",
+      "time" : {
+        "start" : 1599802457176,
+        "stop" : 1599802457176,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://www.google.com/complete/search?q=JavaScri&cp=8&client=psy-ab&xssi=t&gs_ri=gws-wiz&hl=pt-BR&authuser=0&psi=WwxbX9TVLq-f5OUP0ICs0A4.1599802456892&ei=WwxbX9TVLq-f5OUP0ICs0A4",
+      "time" : {
+        "start" : 1599802457177,
+        "stop" : 1599802457177,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://www.google.com/complete/search?q=JavaScrip&cp=9&client=psy-ab&xssi=t&gs_ri=gws-wiz&hl=pt-BR&authuser=0&psi=WwxbX9TVLq-f5OUP0ICs0A4.1599802456892&ei=WwxbX9TVLq-f5OUP0ICs0A4",
+      "time" : {
+        "start" : 1599802457177,
+        "stop" : 1599802457177,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://www.google.com/complete/search?q=JavaScript&cp=10&client=psy-ab&xssi=t&gs_ri=gws-wiz&hl=pt-BR&authuser=0&psi=WwxbX9TVLq-f5OUP0ICs0A4.1599802456892&ei=WwxbX9TVLq-f5OUP0ICs0A4",
+      "time" : {
+        "start" : 1599802457177,
+        "stop" : 1599802457177,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "contains (\"Pesquisa Google\")",
+      "time" : {
+        "start" : 1599802457178,
+        "stop" : 1599802457189,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "click",
+      "time" : {
+        "start" : 1599802457189,
+        "stop" : 1599802457373,
+        "duration" : 184
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "--waiting for new page to load-- page load",
+      "time" : {
+        "start" : 1599802457373,
+        "stop" : 1599802457373,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "get (\"tr > :nth-child(3) > .fl\")",
+      "time" : {
+        "start" : 1599802457373,
+        "stop" : 1599802458200,
+        "duration" : 827
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "tr > :nth-child(3) > .fl get",
+      "time" : {
+        "start" : 1599802458200,
+        "stop" : 1599802458200,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "click",
+      "time" : {
+        "start" : 1599802458200,
+        "stop" : 1599802458595,
+        "duration" : 395
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "--waiting for new page to load-- page load",
+      "time" : {
+        "start" : 1599802458593,
+        "stop" : 1599802458593,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://www.google.com/async/bgasy?ei=XAxbX_S0KpfC5OUP5dWTmAs&yv=3&async=_fmt:jspb",
+      "time" : {
+        "start" : 1599802458594,
+        "stop" : 1599802458594,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://www.google.com/complete/search?q&cp=0&client=psy-ab&xssi=t&gs_ri=gws-wiz&hl=pt-BR&authuser=0&pq=JavaScript&psi=XAxbX_S0KpfC5OUP5dWTmAs.1599802458460&ei=XAxbX_S0KpfC5OUP5dWTmAs&nolsbt=1",
+      "time" : {
+        "start" : 1599802458595,
+        "stop" : 1599802458595,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 22,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Roteiro Google"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ce04860bf8011a8f.json",
+  "parameterValues" : [ ]
+}

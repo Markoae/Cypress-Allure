@@ -1,0 +1,16 @@
+{
+  "name": "roteiro--cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "./node_modules/.bin/cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^1.8.2",
+    "allure-commandline": "^2.13.0",
+    "cypress": "^5.1.0"
+  }
+}

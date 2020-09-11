@@ -1,0 +1,61 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Roteiro Google",
+    "children" : [ {
+      "name" : "Pesquisa por botão “Pesquisa Google”",
+      "uid" : "f6f043f3c7cf8fc4",
+      "parentUid" : "757124d678d46742d139bbafd816a74c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599802443732,
+        "stop" : 1599802447776,
+        "duration" : 4044
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Pesquisa por botão “Estou com sorte”",
+      "uid" : "bc48dda7c091c827",
+      "parentUid" : "757124d678d46742d139bbafd816a74c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599802447986,
+        "stop" : 1599802451266,
+        "duration" : 3280
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Acessar um link da busca",
+      "uid" : "c509b01593426a1a",
+      "parentUid" : "757124d678d46742d139bbafd816a74c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599802451293,
+        "stop" : 1599802456170,
+        "duration" : 4877
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Avançar página de resultados",
+      "uid" : "ce04860bf8011a8f",
+      "parentUid" : "757124d678d46742d139bbafd816a74c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599802456229,
+        "stop" : 1599802459175,
+        "duration" : 2946
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "757124d678d46742d139bbafd816a74c"
+  } ]
+}

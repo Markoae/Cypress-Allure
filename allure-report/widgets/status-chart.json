@@ -1,0 +1,41 @@
+[ {
+  "uid" : "f6f043f3c7cf8fc4",
+  "name" : "Pesquisa por botão “Pesquisa Google”",
+  "time" : {
+    "start" : 1599802443732,
+    "stop" : 1599802447776,
+    "duration" : 4044
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce04860bf8011a8f",
+  "name" : "Avançar página de resultados",
+  "time" : {
+    "start" : 1599802456229,
+    "stop" : 1599802459175,
+    "duration" : 2946
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c509b01593426a1a",
+  "name" : "Acessar um link da busca",
+  "time" : {
+    "start" : 1599802451293,
+    "stop" : 1599802456170,
+    "duration" : 4877
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc48dda7c091c827",
+  "name" : "Pesquisa por botão “Estou com sorte”",
+  "time" : {
+    "start" : 1599802447986,
+    "stop" : 1599802451266,
+    "duration" : 3280
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
